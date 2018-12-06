@@ -1,0 +1,43 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\href{#1}{#1}}
+\providecommand{\dodoi}[1]{doi:~\href{http://doi.org/#1}{\nolinkurl{#1}}}
+\providecommand{\doeprint}[1]{\href{http://ascl.net/#1}{\nolinkurl{http://ascl.net/#1}}}
+\providecommand{\doarXiv}[1]{\href{https://arxiv.org/abs/#1}{\nolinkurl{https://arxiv.org/abs/#1}}}
+
+\bibitem[{{Connolly} {et~al.}(2014){Connolly}, {Angeli}, {Chandrasekharan},
+  {Claver}, {Cook}, {Ivezic}, {Jones}, {Krughoff}, {Peng}, {Peterson}, {Petry},
+  {Rasmussen}, {Ridgway}, {Saha}, {Sembroski}, {vanderPlas}, \&
+  {Yoachim}}]{2014SPIE.9150E..14C}
+{Connolly}, A.~J., {Angeli}, G.~Z., {Chandrasekharan}, S., {et~al.} 2014, in
+  Proc. SPIE, Vol. 9150, Systems Engineering, and Project Management for
+  Astronomy VI, 915014
+
+\bibitem[{{Delgado} {et~al.}(2014){Delgado}, {Saha}, {Chandrasekharan}, {Cook},
+  {Petry}, \& {Ridgway}}]{2014SPIE.9150E..15D}
+{Delgado}, F., {Saha}, A., {Chandrasekharan}, S., {et~al.} 2014, in Proc. SPIE,
+  Vol. 9150, Systems Engineering, and Project Management for Astronomy VI,
+  915015
+
+\bibitem[{{Dhillon} {et~al.}(2016){Dhillon}, {Marsh}, {Bezawada}, {Black},
+  {Dixon}, {Gamble}, {Henry}, {Kerry}, {Littlefair}, {Lunney}, {Morris},
+  {Osborn}, \& {Wilson}}]{2016SPIE.9908E..0YD}
+{Dhillon}, V.~S., {Marsh}, T.~R., {Bezawada}, N., {et~al.} 2016, in Proc. SPIE,
+  Vol. 9908, Ground-based and Airborne Instrumentation for Astronomy VI, 9908
+
+\bibitem[{{Howell} \& {Jacoby}(1986)}]{1986PASP...98..802H}
+{Howell}, S.~B., \& {Jacoby}, G.~H. 1986, 98, 802, \dodoi{10.1086/131828}
+
+\bibitem[{{Peterson} {et~al.}(2015){Peterson}, {Jernigan}, {Kahn}, {Rasmussen},
+  {Peng}, {Ahmad}, {Bankert}, {Chang}, {Claver}, {Gilmore}, {Grace}, {Hannel},
+  {Hodge}, {Lorenz}, {Lupu}, {Meert}, {Nagarajan}, {Todd}, {Winans}, \&
+  {Young}}]{2015ApJS..218...14P}
+{Peterson}, J.~R., {Jernigan}, J.~G., {Kahn}, S.~M., {et~al.} 2015,
+  Astrophysical Journal, Supplement, 218, 14,
+  \dodoi{10.1088/0067-0049/218/1/14}
+
+\bibitem[{{Thomas} \& {Kahn}(2018)}]{mine}
+{Thomas}, D., \& {Kahn}, S. 2018, The Astrophysical Journal, 868,
+  \dodoi{10.3847/0004-637X/830/1/27}
+
+\end{thebibliography}
